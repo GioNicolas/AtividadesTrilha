@@ -1,0 +1,33 @@
+id_cliente,nome,email,cidade,estado,data_cadastro,telefone,arquivo_origem,dt_ingestao
+1,Ursula Souza,ursula.souza1@exemplo.com,Santos,sp,2023-10-09,,clientes.json,2026-08-15T00:23:56.492718+00:00
+2,Hugo Santos,hugo.santos2exemplo.com,Juiz de Fora,MG,2023-04-15,,clientes.json,2026-08-15T00:23:56.492718+00:00
+3,Vinícius Araújo,vinicius.araujo3@exemplo.com,Florianópolis,SC,2024-08-27,,clientes.json,2026-08-15T00:23:56.492718+00:00
+4,Nelson Silva,nelson.silva4@exemplo.com,São Paulo,SP,2023-08-12,,clientes.json,2026-08-15T00:23:56.492718+00:00
+5,Hugo Almeida,hugo.almeida5@exemplo.com,Goiânia, GO ,,,clientes.json,2026-08-15T00:23:56.492718+00:00
+6,Gabriela Araújo,gabriela.araujo6@exemplo.com,Joinville, SC ,2023-08-14,,clientes.json,2026-08-15T00:23:56.492718+00:00
+7,Olivia Nascimento,olivia.nascimento7@exemplo.com,Salvador,BA,2025-02-16,,clientes.json,2026-08-15T00:23:56.492718+00:00
+8,Zeca Oliveira,zeca.oliveira8@exemplo.com,Olinda, PE ,2023-10-12,,clientes.json,2026-08-15T00:23:56.492718+00:00
+9,Elisa Santos,elisa.santos9@exemplo.com,Curitiba,PR,2023-04-05,,clientes.json,2026-08-15T00:23:56.492718+00:00
+10,Mariana Souza,  mariana.souza10@exemplo.com  ,Londrina,PR,2024-09-10,,clientes.json,2026-08-15T00:23:56.492718+00:00
+11,Isabela Fernandes,isabela.fernandes11@exemplo.com,Santos,SP,2024-04-15,,clientes.json,2026-08-15T00:23:56.492718+00:00
+12,Rafael Souza,rafael.souza12@exemplo.com,Recife,PE,2024-07-19,,clientes.json,2026-08-15T00:23:56.492718+00:00
+13,João Carvalho,  joão.carvalho13@exemplo.com  ,Anápolis,GO,,,clientes.json,2026-08-15T00:23:56.492718+00:00
+14,Gabriela Araújo,gabriela.araujo14@exemplo.com,Rio de Janeiro,RJ,,,clientes.json,2026-08-15T00:23:56.492718+00:00
+15,Hugo Fernandes,hugo.fernandes15@exemplo.com,Salvador,BA,2025-05-25,,clientes.json,2026-08-15T00:23:56.492718+00:00
+16,Hugo Carvalho,hugo.carvalho16exemplo.com,Niterói,RJ,2023-10-12,,clientes.json,2026-08-15T00:23:56.492718+00:00
+17,Olivia Lima,olivia.lima17@exemplo.com,Curitiba,PR,2024-01-15,,clientes.json,2026-08-15T00:23:56.492718+00:00
+18,Lucas Santos,lucas.santos18@exemplo.com,Ilhéus,BA,,,clientes.json,2026-08-15T00:23:56.492718+00:00
+19,Ursula Souza,ursula.souza19@exemplo.com,Rio Verde,GO,2023-06-25,,clientes.json,2026-08-15T00:23:56.492718+00:00
+20,Rafael Araújo,RAFAEL.ARAUJO20@EXEMPLO.COM,Porto Alegre,RS,2024-04-18,,clientes.json,2026-08-15T00:23:56.492718+00:00
+21,Mariana Pereira,mariana.pereira21@exemplo.com,Florianópolis,SC,2024-12-02,,clientes.json,2026-08-15T00:23:56.492718+00:00
+22,Karina Carvalho,karina.carvalho22@exemplo.com,São Paulo, SP ,,,clientes.json,2026-08-15T00:23:56.492718+00:00
+23,Bruno Fernandes,bruno.fernandes23@exemplo.com,Londrina,PR,,(11) 97560-2019,clientes.json,2026-08-15T00:23:56.492718+00:00
+24,Carla Santos,CARLA.SANTOS24@EXEMPLO.COM,Rio Verde,GO,2023-11-19,,clientes.json,2026-08-15T00:23:56.492718+00:00
+25,Gabriela Lima,gabriela.lima25@exemplo.com,Sobral,CE,2024-10-20,,clientes.json,2026-08-15T00:23:56.492718+00:00
+26,Olivia Oliveira,olivia.oliveira26@exemplo.com,Salvador,BA,2023-09-10,,clientes.json,2026-08-15T00:23:56.492718+00:00
+27,Ximena Almeida,ximena.almeida27@exemplo.com,Joinville,SC,2025-02-03,,clientes.json,2026-08-15T00:23:56.492718+00:00
+28,Sofia Ferreira,sofia.ferreira28@exemplo.com,Anápolis,GO,2024-01-06,(11) 92103-4420,clientes.json,2026-08-15T00:23:56.492718+00:00
+29,Hugo Oliveira,hugo.oliveira29@exemplo.com,Joinville,SC,2023-04-04,,clientes.json,2026-08-15T00:23:56.492718+00:00
+30,Yasmin Silva,yasmin.silva30@exemplo.com,Rio de Janeiro,RJ,2024-10-04,,clientes.json,2026-08-15T00:23:56.492718+00:00
+19,Ursula Souza,atualizado.19@exemplo.com,Rio Verde,GO,2023-06-25,,clientes.json,2026-08-15T00:23:56.492718+00:00
+7,Olivia Nascimento,atualizado.7@exemplo.com,Salvador,BA,2025-02-16,,clientes.json,2026-08-15T00:23:56.492718+00:00

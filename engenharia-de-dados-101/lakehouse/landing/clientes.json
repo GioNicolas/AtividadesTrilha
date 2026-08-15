@@ -1,0 +1,257 @@
+[
+  {
+    "id_cliente": 1,
+    "nome": "Ursula Souza",
+    "email": "ursula.souza1@exemplo.com",
+    "cidade": "Santos",
+    "estado": "sp",
+    "data_cadastro": "2023-10-09"
+  },
+  {
+    "id_cliente": 2,
+    "nome": "Hugo Santos",
+    "email": "hugo.santos2exemplo.com",
+    "cidade": "Juiz de Fora",
+    "estado": "MG",
+    "data_cadastro": "2023-04-15"
+  },
+  {
+    "id_cliente": 3,
+    "nome": "Vinícius Araújo",
+    "email": "vinicius.araujo3@exemplo.com",
+    "cidade": "Florianópolis",
+    "estado": "SC",
+    "data_cadastro": "2024-08-27"
+  },
+  {
+    "id_cliente": 4,
+    "nome": "Nelson Silva",
+    "email": "nelson.silva4@exemplo.com",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_cadastro": "2023-08-12"
+  },
+  {
+    "id_cliente": "5",
+    "nome": "Hugo Almeida",
+    "email": "hugo.almeida5@exemplo.com",
+    "cidade": "Goiânia",
+    "estado": " GO "
+  },
+  {
+    "id_cliente": 6,
+    "nome": "Gabriela Araújo",
+    "email": "gabriela.araujo6@exemplo.com",
+    "cidade": "Joinville",
+    "estado": " SC ",
+    "data_cadastro": "2023-08-14"
+  },
+  {
+    "id_cliente": 7,
+    "nome": "Olivia Nascimento",
+    "email": "olivia.nascimento7@exemplo.com",
+    "cidade": "Salvador",
+    "estado": "BA",
+    "data_cadastro": "2025-02-16"
+  },
+  {
+    "id_cliente": 8,
+    "nome": "Zeca Oliveira",
+    "email": "zeca.oliveira8@exemplo.com",
+    "cidade": "Olinda",
+    "estado": " PE ",
+    "data_cadastro": "2023-10-12"
+  },
+  {
+    "id_cliente": 9,
+    "nome": "Elisa Santos",
+    "email": "elisa.santos9@exemplo.com",
+    "cidade": "Curitiba",
+    "estado": "PR",
+    "data_cadastro": "2023-04-05"
+  },
+  {
+    "id_cliente": 10,
+    "nome": "Mariana Souza",
+    "email": "  mariana.souza10@exemplo.com  ",
+    "cidade": "Londrina",
+    "estado": "PR",
+    "data_cadastro": "2024-09-10"
+  },
+  {
+    "id_cliente": "11",
+    "nome": "Isabela Fernandes",
+    "email": "isabela.fernandes11@exemplo.com",
+    "cidade": "Santos",
+    "estado": "SP",
+    "data_cadastro": "2024-04-15"
+  },
+  {
+    "id_cliente": 12,
+    "nome": "Rafael Souza",
+    "email": "rafael.souza12@exemplo.com",
+    "cidade": "Recife",
+    "estado": "PE",
+    "data_cadastro": "2024-07-19"
+  },
+  {
+    "id_cliente": 13,
+    "nome": "João Carvalho",
+    "email": "  joão.carvalho13@exemplo.com  ",
+    "cidade": "Anápolis",
+    "estado": "GO",
+    "data_cadastro": null
+  },
+  {
+    "id_cliente": 14,
+    "nome": "Gabriela Araújo",
+    "email": "gabriela.araujo14@exemplo.com",
+    "cidade": "Rio de Janeiro",
+    "estado": "RJ"
+  },
+  {
+    "id_cliente": 15,
+    "nome": "Hugo Fernandes",
+    "email": "hugo.fernandes15@exemplo.com",
+    "cidade": "Salvador",
+    "estado": "BA",
+    "data_cadastro": "2025-05-25"
+  },
+  {
+    "id_cliente": 16,
+    "nome": "Hugo Carvalho",
+    "email": "hugo.carvalho16exemplo.com",
+    "cidade": "Niterói",
+    "estado": "RJ",
+    "data_cadastro": "2023-10-12"
+  },
+  {
+    "id_cliente": 17,
+    "nome": "Olivia Lima",
+    "email": "olivia.lima17@exemplo.com",
+    "cidade": "Curitiba",
+    "estado": "PR",
+    "data_cadastro": "2024-01-15"
+  },
+  {
+    "id_cliente": 18,
+    "nome": "Lucas Santos",
+    "email": "lucas.santos18@exemplo.com",
+    "cidade": "Ilhéus",
+    "estado": "BA"
+  },
+  {
+    "id_cliente": 19,
+    "nome": "Ursula Souza",
+    "email": "ursula.souza19@exemplo.com",
+    "cidade": "Rio Verde",
+    "estado": "GO",
+    "data_cadastro": "2023-06-25"
+  },
+  {
+    "id_cliente": 20,
+    "nome": "Rafael Araújo",
+    "email": "RAFAEL.ARAUJO20@EXEMPLO.COM",
+    "cidade": "Porto Alegre",
+    "estado": "RS",
+    "data_cadastro": "2024-04-18"
+  },
+  {
+    "id_cliente": 21,
+    "nome": "Mariana Pereira",
+    "email": "mariana.pereira21@exemplo.com",
+    "cidade": "Florianópolis",
+    "estado": "SC",
+    "data_cadastro": "2024-12-02"
+  },
+  {
+    "id_cliente": 22,
+    "nome": "Karina Carvalho",
+    "email": "karina.carvalho22@exemplo.com",
+    "cidade": "São Paulo",
+    "estado": " SP ",
+    "data_cadastro": null
+  },
+  {
+    "id_cliente": 23,
+    "nome": "Bruno Fernandes",
+    "email": "bruno.fernandes23@exemplo.com",
+    "cidade": "Londrina",
+    "estado": "PR",
+    "data_cadastro": null,
+    "telefone": "(11) 97560-2019"
+  },
+  {
+    "id_cliente": 24,
+    "nome": "Carla Santos",
+    "email": "CARLA.SANTOS24@EXEMPLO.COM",
+    "cidade": "Rio Verde",
+    "estado": "GO",
+    "data_cadastro": "2023-11-19"
+  },
+  {
+    "id_cliente": 25,
+    "nome": "Gabriela Lima",
+    "email": "gabriela.lima25@exemplo.com",
+    "cidade": "Sobral",
+    "estado": "CE",
+    "data_cadastro": "2024-10-20"
+  },
+  {
+    "id_cliente": 26,
+    "nome": "Olivia Oliveira",
+    "email": "olivia.oliveira26@exemplo.com",
+    "cidade": "Salvador",
+    "estado": "BA",
+    "data_cadastro": "2023-09-10"
+  },
+  {
+    "id_cliente": 27,
+    "nome": "Ximena Almeida",
+    "email": "ximena.almeida27@exemplo.com",
+    "cidade": "Joinville",
+    "estado": "SC",
+    "data_cadastro": "2025-02-03"
+  },
+  {
+    "id_cliente": 28,
+    "nome": "Sofia Ferreira",
+    "email": "sofia.ferreira28@exemplo.com",
+    "cidade": "Anápolis",
+    "estado": "GO",
+    "data_cadastro": "2024-01-06",
+    "telefone": "(11) 92103-4420"
+  },
+  {
+    "id_cliente": 29,
+    "nome": "Hugo Oliveira",
+    "email": "hugo.oliveira29@exemplo.com",
+    "cidade": "Joinville",
+    "estado": "SC",
+    "data_cadastro": "2023-04-04"
+  },
+  {
+    "id_cliente": 30,
+    "nome": "Yasmin Silva",
+    "email": "yasmin.silva30@exemplo.com",
+    "cidade": "Rio de Janeiro",
+    "estado": "RJ",
+    "data_cadastro": "2024-10-04"
+  },
+  {
+    "id_cliente": 19,
+    "nome": "Ursula Souza",
+    "email": "atualizado.19@exemplo.com",
+    "cidade": "Rio Verde",
+    "estado": "GO",
+    "data_cadastro": "2023-06-25"
+  },
+  {
+    "id_cliente": 7,
+    "nome": "Olivia Nascimento",
+    "email": "atualizado.7@exemplo.com",
+    "cidade": "Salvador",
+    "estado": "BA",
+    "data_cadastro": "2025-02-16"
+  }
+]

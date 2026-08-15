@@ -1,0 +1,3 @@
+# Único pacote externo do projeto: tudo o mais é biblioteca padrão do Python
+# (csv, json, sqlite3, re, pathlib, datetime, collections).
+streamlit>=1.32

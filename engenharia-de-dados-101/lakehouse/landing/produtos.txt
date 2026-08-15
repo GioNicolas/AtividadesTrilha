@@ -1,0 +1,28 @@
+# Exportação do catálogo de produtos - sistema legado
+# Formato: id_produto|nome|categoria|preco|ativo
+id_produto|nome|categoria|preco|ativo
+
+1|Fone de Ouvido Bluetooth|ELETRÔNICOS|89,90|1
+2|Carregador USB-C 20W|ELETRÔNICOS|49.90|1
+3|Mouse sem Fio|Eletrônicos|39.90|sim
+4|  Teclado Mecânico  |ELETRÔNICOS|199,90|1
+5|Caixa de Som Portátil|Eletrônicos|129,90|sim
+6|Python para Iniciantes|Livros|59.90|1
+7|Introdução a Banco de Dados|Livros|74.90|sim
+8|Contos de Machado de Assis|Livros|29.90|
+9|Engenharia de Dados na Prática|Livros|89.90|
+10|Camiseta Básica|Roupas |39,90|1
+
+# --- lote 2: produtos cadastrados posteriormente ---
+
+11|Calça Jeans|Roupas |129.90|sim
+12|  Jaqueta Corta-Vento  |Roupas|159,90|1
+13|Meias (par)|Roupas|14.90|sim
+14|Café Torrado 500g|Alimentos|24.90|1
+15|Barra de Cereal (cx 12un)|Alimentos|32.90|1
+16|  Azeite Extra Virgem 500ml  |Alimentos|44.90|1
+17|  Quebra-Cabeça 500 peças  |Brinquedos|49.90|1
+18|Boneco de Ação|Brinquedos|69,90|1
+19|Jogo de Tabuleiro|brinquedos |99.90|1
+5|Caixa de Som Portátil|Eletrônicos|129,90|sim
+4|  Teclado Mecânico  |ELETRÔNICOS|199,90|1

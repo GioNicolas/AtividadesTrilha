@@ -1,0 +1,29 @@
+id_cliente,nome,email,cidade,estado,data_cadastro
+1,Ursula Souza,ursula.souza1@exemplo.com,Santos,SP,2023-10-09
+3,Vinícius Araújo,vinicius.araujo3@exemplo.com,Florianópolis,SC,2024-08-27
+4,Nelson Silva,nelson.silva4@exemplo.com,São Paulo,SP,2023-08-12
+5,Hugo Almeida,hugo.almeida5@exemplo.com,Goiânia,GO,
+6,Gabriela Araújo,gabriela.araujo6@exemplo.com,Joinville,SC,2023-08-14
+7,Olivia Nascimento,atualizado.7@exemplo.com,Salvador,BA,2025-02-16
+8,Zeca Oliveira,zeca.oliveira8@exemplo.com,Olinda,PE,2023-10-12
+9,Elisa Santos,elisa.santos9@exemplo.com,Curitiba,PR,2023-04-05
+10,Mariana Souza,mariana.souza10@exemplo.com,Londrina,PR,2024-09-10
+11,Isabela Fernandes,isabela.fernandes11@exemplo.com,Santos,SP,2024-04-15
+12,Rafael Souza,rafael.souza12@exemplo.com,Recife,PE,2024-07-19
+13,João Carvalho,joão.carvalho13@exemplo.com,Anápolis,GO,
+14,Gabriela Araújo,gabriela.araujo14@exemplo.com,Rio de Janeiro,RJ,
+15,Hugo Fernandes,hugo.fernandes15@exemplo.com,Salvador,BA,2025-05-25
+17,Olivia Lima,olivia.lima17@exemplo.com,Curitiba,PR,2024-01-15
+18,Lucas Santos,lucas.santos18@exemplo.com,Ilhéus,BA,
+19,Ursula Souza,atualizado.19@exemplo.com,Rio Verde,GO,2023-06-25
+20,Rafael Araújo,rafael.araujo20@exemplo.com,Porto Alegre,RS,2024-04-18
+21,Mariana Pereira,mariana.pereira21@exemplo.com,Florianópolis,SC,2024-12-02
+22,Karina Carvalho,karina.carvalho22@exemplo.com,São Paulo,SP,
+23,Bruno Fernandes,bruno.fernandes23@exemplo.com,Londrina,PR,
+24,Carla Santos,carla.santos24@exemplo.com,Rio Verde,GO,2023-11-19
+25,Gabriela Lima,gabriela.lima25@exemplo.com,Sobral,CE,2024-10-20
+26,Olivia Oliveira,olivia.oliveira26@exemplo.com,Salvador,BA,2023-09-10
+27,Ximena Almeida,ximena.almeida27@exemplo.com,Joinville,SC,2025-02-03
+28,Sofia Ferreira,sofia.ferreira28@exemplo.com,Anápolis,GO,2024-01-06
+29,Hugo Oliveira,hugo.oliveira29@exemplo.com,Joinville,SC,2023-04-04
+30,Yasmin Silva,yasmin.silva30@exemplo.com,Rio de Janeiro,RJ,2024-10-04
