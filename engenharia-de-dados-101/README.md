@@ -1,3 +1,5 @@
+# Fiz até a SILVER completa, faltou a gold
+
 # Engenharia de Dados 101
 
 Você vai construir, do zero, um pipeline com **arquitetura medalhão**
